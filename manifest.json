@@ -1,0 +1,14 @@
+{
+  "name": "Catálogo Nurukanda",
+  "short_name": "Nurukanda",
+  "description": "Catálogo digital e pedidos online da Nurukanda",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0F1B33",
+  "theme_color": "#E3A24B",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
